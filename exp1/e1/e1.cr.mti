@@ -1,0 +1,17 @@
+//Mac/Home/Desktop/e1/cnt1.v {1 {vlog -work work -vopt //Mac/Home/Desktop/e1/cnt1.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module cnt_dec1
+-- Compiling module counter
+-- Compiling module BCD7
+
+Top level modules:
+	cnt_dec1
+
+} {} {}} //Mac/Home/Desktop/e1/cnt1_tb.v {1 {vlog -work work -vopt //Mac/Home/Desktop/e1/cnt1_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module single_clk_cnt
+
+Top level modules:
+	single_clk_cnt
+
+} {} {}}

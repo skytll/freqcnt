@@ -1,0 +1,96 @@
+m255
+K3
+13
+cModel Technology
+Z0 d\\Mac\Home\Desktop\exp1-1
+vBCD7
+Z1 !s100 z5P5jPDWZG^Y`Wa]`Rlzh3
+Z2 Ifa^4>ekSj;g=4^]WzV1?61
+Z3 V7QhE:Tn8<J09Fz?MUBPVH2
+Z4 d\\Mac\Home\Desktop\e1
+Z5 w1524808753
+Z6 8//Mac/Home/Desktop/e1/cnt1.v
+Z7 F//Mac/Home/Desktop/e1/cnt1.v
+L0 30
+Z8 OE;L;10.1a;51
+r1
+31
+Z9 !s108 1524808757.887000
+Z10 !s107 //Mac/Home/Desktop/e1/cnt1.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|//Mac/Home/Desktop/e1/cnt1.v|
+Z12 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z13 n@b@c@d7
+!i10b 1
+!s85 0
+vcnt_dec
+Z14 I77[ckN^6=3D@MO5PL<mn11
+Z15 V8^h9ahB?:E0`oMa:c8hOe0
+R4
+Z16 w1524752691
+R6
+R7
+L0 1
+R8
+r1
+31
+R12
+R10
+R11
+Z17 !s100 DP:4l`8@gC;MfcDP0EF1P0
+Z18 !s108 1524752775.846000
+!i10b 1
+!s85 0
+vcnt_dec1
+Z19 !s100 :NkEm5XQ^7HhJDS;lzWDU1
+Z20 Im4?Xk>T]K4_IP89CI[a8e0
+Z21 VEUZ8Jf;WIhVA:c73YU1lY0
+R4
+R5
+R6
+R7
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+vcounter
+Z22 I7?V1E4?Z2md6fzQ70KEEA1
+Z23 VlgJ4WJLZE;zD]J1MZSLE71
+R4
+R5
+R6
+R7
+L0 9
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+Z24 !s100 ?PeKfaNU1MHei3kIMDHET3
+!s85 0
+vsingle_clk_cnt
+!i10b 1
+Z25 !s100 hn;ndDT7l`dh<>4FT>iHi1
+Z26 I6@K^J>hWe7Xi_S?_h;jMF0
+Z27 V]_Z>>b6WSWG6Fg8:N8h0c2
+R4
+Z28 w1524808103
+Z29 8//Mac/Home/Desktop/e1/cnt1_tb.v
+Z30 F//Mac/Home/Desktop/e1/cnt1_tb.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1524808758.007000
+!s107 //Mac/Home/Desktop/e1/cnt1_tb.v|
+Z31 !s90 -reportprogress|300|-work|work|-vopt|//Mac/Home/Desktop/e1/cnt1_tb.v|
+R12
